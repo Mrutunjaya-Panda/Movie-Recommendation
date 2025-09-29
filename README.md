@@ -38,13 +38,11 @@ The project demonstrates the use of **JavaScript (XHR requests)** for fetching d
 
 ## 🔑 API Endpoints Used
 
-**Genres List**- https://api.themoviedb.org/3/genre/movie/list?api_key=${apiKey}
-**Movies by Genre**- https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&with_genres=${selectedGenre}
-**Movie Details (Poster, Overview, etc.)**- https://api.themoviedb.org/3/movie/${movieId}?api_key=${apiKey}
-**Poster Base URL**- https://image.tmdb.org/t/p/w500${poster_path}
+1. **Genres List**- https://api.themoviedb.org/3/genre/movie/list?api_key=${apiKey}
+2. **Movies by Genre**- https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&with_genres=${selectedGenre}
+3. **Movie Details (Poster, Overview, etc.)**- https://api.themoviedb.org/3/movie/${movieId}?api_key=${apiKey}
+4. **Poster Base URL**- https://image.tmdb.org/t/p/w500${poster_path}
 
-## 📸 Demo
-<img width="1350" height="645" alt="image" src="https://github.com/user-attachments/assets/f2544833-3262-4231-b8ce-190048d338b4" />
 
 ## 🎯 Learning Objectives
 
